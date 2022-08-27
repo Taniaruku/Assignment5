@@ -1,0 +1,47 @@
+.header{
+	height:100px;
+	background-color:orange;
+}
+.box{
+	width:100px;
+	height:100px;
+}
+.purple{
+	background-color:purple;
+	border:5px solid black;
+	margin-bottom:50px;
+}
+.green{
+	background-color:green;
+	margin-left:100px;
+}
+.aqua{
+	background-color:aqua;
+	margin-top:50px;
+}
+h2 span{
+	color:blue;
+}
+.heading-1{
+	background-color:orange;
+}
+.frame{
+	width:49%;
+	height:375px;
+}
+.frame{
+	width:49%;
+	height:375px;
+}
+#text1{
+	border: 5px solid blue;
+}
+.frame 
+{
+	width:49%;
+	height:375px;
+}
+.footer{
+	height:100px;
+	background-color:grey;
+}
